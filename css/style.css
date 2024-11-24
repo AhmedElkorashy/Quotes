@@ -1,0 +1,12 @@
+h1 {
+  font-family: Impact;
+}
+.my-style {
+  --bs-btn-hover-bg: #008000;
+  --bs-btn-padding-y: 1.7rem;
+  --bs-btn-padding-x: 5rem;
+  --bs-btn-hover-border-color: #000000;
+}
+p {
+  font-size: 35px;
+}
